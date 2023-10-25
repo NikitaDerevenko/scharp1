@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\bin\Debug\net6.0\task_17_функции_XY.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\bin\Debug\net6.0\task_17_функции_XY.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\bin\Debug\net6.0\task_17_функции_XY.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\bin\Debug\net6.0\task_17_функции_XY.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\bin\Debug\net6.0\task_17_функции_XY.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\refint\task_17_функции_XY.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\task_17_функции_XY.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_17_функции_XY\obj\Debug\net6.0\ref\task_17_функции_XY.dll

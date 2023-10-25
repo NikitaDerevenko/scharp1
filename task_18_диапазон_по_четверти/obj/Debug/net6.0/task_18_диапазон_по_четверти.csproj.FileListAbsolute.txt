@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\bin\Debug\net6.0\task_18_диапазон_по_четверти.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\bin\Debug\net6.0\task_18_диапазон_по_четверти.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\bin\Debug\net6.0\task_18_диапазон_по_четверти.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\bin\Debug\net6.0\task_18_диапазон_по_четверти.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\bin\Debug\net6.0\task_18_диапазон_по_четверти.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\refint\task_18_диапазон_по_четверти.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\task_18_диапазон_по_четверти.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_18_диапазон_по_четверти\obj\Debug\net6.0\ref\task_18_диапазон_по_четверти.dll

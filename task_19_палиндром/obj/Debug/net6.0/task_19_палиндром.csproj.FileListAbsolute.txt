@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\bin\Debug\net6.0\task_19_палиндром.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\bin\Debug\net6.0\task_19_палиндром.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\bin\Debug\net6.0\task_19_палиндром.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\bin\Debug\net6.0\task_19_палиндром.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\bin\Debug\net6.0\task_19_палиндром.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\refint\task_19_палиндром.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\task_19_палиндром.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_палиндром\obj\Debug\net6.0\ref\task_19_палиндром.dll

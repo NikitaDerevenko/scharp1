@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\bin\Debug\net6.0\task_19_2D.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\bin\Debug\net6.0\task_19_2D.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\bin\Debug\net6.0\task_19_2D.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\bin\Debug\net6.0\task_19_2D.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\bin\Debug\net6.0\task_19_2D.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\refint\task_19_2D.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\task_19_2D.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_19_2D\obj\Debug\net6.0\ref\task_19_2D.dll

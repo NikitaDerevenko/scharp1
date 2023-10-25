@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\bin\Debug\net6.0\task_23_таблица_кубов.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\bin\Debug\net6.0\task_23_таблица_кубов.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\bin\Debug\net6.0\task_23_таблица_кубов.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\bin\Debug\net6.0\task_23_таблица_кубов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\bin\Debug\net6.0\task_23_таблица_кубов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\refint\task_23_таблица_кубов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\task_23_таблица_кубов.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_23_таблица_кубов\obj\Debug\net6.0\ref\task_23_таблица_кубов.dll
