@@ -95,7 +95,7 @@ static int GetDigitsCount(int number)
 }
 */
 
-Console.Write("Введи число: ");
+/*Console.Write("Введи число: ");
 int anyNumber = Convert.ToInt32(Console.ReadLine());
 string anyNumberText = Convert.ToString(anyNumber);
 if (anyNumberText.Length > 2){
@@ -103,4 +103,19 @@ if (anyNumberText.Length > 2){
 }
 else {
   Console.WriteLine("-> третьей цифры нет");
+}*/
+
+Console.Write("Введи число: ");
+int anyNumber = Convert.ToInt32(Console.ReadLine());
+if (anyNumber < 100)
+    System.Console.WriteLine("3 цифры нет");
+else
+{
+    int result = 0;
+    while (anyNumber > 999)
+    {
+        anyNumber = anyNumber / 10;
+    }
+    result = anyNumber % 10;
+    System.Console.WriteLine(result);
 }

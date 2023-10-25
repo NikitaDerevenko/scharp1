@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_13_третья_цифра_числа\\task_13_третья_цифра_числа.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_13_третья_цифра_числа\\task_13_третья_цифра_числа.csproj",
       "projectName": "task_13_третья_цифра_числа",
-      "projectPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_13_третья_цифра_числа\\task_13_третья_цифра_числа.csproj",
+      "projectPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_13_третья_цифра_числа\\task_13_третья_цифра_числа.csproj",
       "packagesPath": "C:\\Users\\Пользователь 1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_13_третья_цифра_числа\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_13_третья_цифра_числа\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь 1\\AppData\\Roaming\\NuGet\\NuGet.Config"
