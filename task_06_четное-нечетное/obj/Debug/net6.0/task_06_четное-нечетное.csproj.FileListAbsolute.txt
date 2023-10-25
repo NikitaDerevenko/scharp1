@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\bin\Debug\net6.0\task_06_четное-нечетное.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\bin\Debug\net6.0\task_06_четное-нечетное.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\bin\Debug\net6.0\task_06_четное-нечетное.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\bin\Debug\net6.0\task_06_четное-нечетное.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\bin\Debug\net6.0\task_06_четное-нечетное.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\refint\task_06_четное-нечетное.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\task_06_четное-нечетное.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_06_четное-нечетное\obj\Debug\net6.0\ref\task_06_четное-нечетное.dll

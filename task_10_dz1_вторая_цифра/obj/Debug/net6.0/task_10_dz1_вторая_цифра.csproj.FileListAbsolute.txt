@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\bin\Debug\net6.0\task_10_dz1_вторая_цифра.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\bin\Debug\net6.0\task_10_dz1_вторая_цифра.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\bin\Debug\net6.0\task_10_dz1_вторая_цифра.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\bin\Debug\net6.0\task_10_dz1_вторая_цифра.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\bin\Debug\net6.0\task_10_dz1_вторая_цифра.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\refint\task_10_dz1_вторая_цифра.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\task_10_dz1_вторая_цифра.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_10_dz1_вторая_цифра\obj\Debug\net6.0\ref\task_10_dz1_вторая_цифра.dll

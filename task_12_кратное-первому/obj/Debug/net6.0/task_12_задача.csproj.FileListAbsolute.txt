@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\bin\Debug\net6.0\task_12_задача.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\bin\Debug\net6.0\task_12_задача.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\bin\Debug\net6.0\task_12_задача.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\bin\Debug\net6.0\task_12_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\bin\Debug\net6.0\task_12_задача.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\refint\task_12_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\task_12_задача.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_12_кратное-первому\obj\Debug\net6.0\ref\task_12_задача.dll

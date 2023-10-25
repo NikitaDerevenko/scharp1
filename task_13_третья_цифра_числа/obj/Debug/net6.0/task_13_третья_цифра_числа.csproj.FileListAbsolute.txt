@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\bin\Debug\net6.0\task_13_третья_цифра_числа.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\bin\Debug\net6.0\task_13_третья_цифра_числа.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\bin\Debug\net6.0\task_13_третья_цифра_числа.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\bin\Debug\net6.0\task_13_третья_цифра_числа.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\bin\Debug\net6.0\task_13_третья_цифра_числа.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\refint\task_13_третья_цифра_числа.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\task_13_третья_цифра_числа.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_13_третья_цифра_числа\obj\Debug\net6.0\ref\task_13_третья_цифра_числа.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_00_квадрат_числа\\task00_квадрат_числа.csproj": {}
+    "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_00_квадрат_числа\\task00_квадрат_числа.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_00_квадрат_числа\\task00_квадрат_числа.csproj": {
+    "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_00_квадрат_числа\\task00_квадрат_числа.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_00_квадрат_числа\\task00_квадрат_числа.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_00_квадрат_числа\\task00_квадрат_числа.csproj",
         "projectName": "task00_квадрат_числа",
-        "projectPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_00_квадрат_числа\\task00_квадрат_числа.csproj",
+        "projectPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_00_квадрат_числа\\task00_квадрат_числа.csproj",
         "packagesPath": "C:\\Users\\Пользователь 1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Seminar\\task_00_квадрат_числа\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь 1\\OneDrive\\Рабочий стол\\Sharp\\task_00_квадрат_числа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь 1\\AppData\\Roaming\\NuGet\\NuGet.Config"

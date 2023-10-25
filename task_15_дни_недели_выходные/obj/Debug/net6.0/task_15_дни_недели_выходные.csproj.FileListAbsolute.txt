@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\bin\Debug\net6.0\task_15_дни_недели_выходные.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\bin\Debug\net6.0\task_15_дни_недели_выходные.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\bin\Debug\net6.0\task_15_дни_недели_выходные.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\bin\Debug\net6.0\task_15_дни_недели_выходные.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\bin\Debug\net6.0\task_15_дни_недели_выходные.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\refint\task_15_дни_недели_выходные.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\task_15_дни_недели_выходные.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_15_дни_недели_выходные\obj\Debug\net6.0\ref\task_15_дни_недели_выходные.dll

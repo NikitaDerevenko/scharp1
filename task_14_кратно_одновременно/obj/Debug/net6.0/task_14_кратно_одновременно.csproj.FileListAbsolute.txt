@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\bin\Debug\net6.0\task_14_кратно_одновременно.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\bin\Debug\net6.0\task_14_кратно_одновременно.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\bin\Debug\net6.0\task_14_кратно_одновременно.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\bin\Debug\net6.0\task_14_кратно_одновременно.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\bin\Debug\net6.0\task_14_кратно_одновременно.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\refint\task_14_кратно_одновременно.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\task_14_кратно_одновременно.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_14_кратно_одновременно\obj\Debug\net6.0\ref\task_14_кратно_одновременно.dll

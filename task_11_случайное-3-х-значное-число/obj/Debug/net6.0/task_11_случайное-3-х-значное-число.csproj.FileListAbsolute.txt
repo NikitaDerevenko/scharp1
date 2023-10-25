@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\bin\Debug\net6.0\task_11_случайное-3-х-значное-число.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\bin\Debug\net6.0\task_11_случайное-3-х-значное-число.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\bin\Debug\net6.0\task_11_случайное-3-х-значное-число.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\bin\Debug\net6.0\task_11_случайное-3-х-значное-число.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\bin\Debug\net6.0\task_11_случайное-3-х-значное-число.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\refint\task_11_случайное-3-х-значное-число.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\task_11_случайное-3-х-значное-число.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_11_случайное-3-х-значное-число\obj\Debug\net6.0\ref\task_11_случайное-3-х-значное-число.dll

@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\bin\Debug\net6.0\task_16_квадрат.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\bin\Debug\net6.0\task_16_квадрат.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\bin\Debug\net6.0\task_16_квадрат.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\bin\Debug\net6.0\task_16_квадрат.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\bin\Debug\net6.0\task_16_квадрат.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\refint\task_16_квадрат.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\task_16_квадрат.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_16_квадрат\obj\Debug\net6.0\ref\task_16_квадрат.dll

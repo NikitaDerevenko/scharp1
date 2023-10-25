@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\bin\Debug\net6.0\task_05_задача.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\bin\Debug\net6.0\task_05_задача.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\bin\Debug\net6.0\task_05_задача.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\bin\Debug\net6.0\task_05_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\bin\Debug\net6.0\task_05_задача.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\refint\task_05_задача.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\task_05_задача.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_05_задача\obj\Debug\net6.0\ref\task_05_задача.dll

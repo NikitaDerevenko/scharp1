@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\bin\Debug\net6.0\task_02_дз_проверка.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\bin\Debug\net6.0\task_02_дз_проверка.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\bin\Debug\net6.0\task_02_дз_проверка.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\bin\Debug\net6.0\task_02_дз_проверка.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\bin\Debug\net6.0\task_02_дз_проверка.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\refint\task_02_дз_проверка.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\task_02_дз_проверка.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_02_дз_проверка\obj\Debug\net6.0\ref\task_02_дз_проверка.dll

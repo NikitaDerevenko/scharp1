@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\bin\Debug\net6.0\task_09_отрезок.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\bin\Debug\net6.0\task_09_отрезок.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\bin\Debug\net6.0\task_09_отрезок.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\bin\Debug\net6.0\task_09_отрезок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\bin\Debug\net6.0\task_09_отрезок.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\refint\task_09_отрезок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\task_09_отрезок.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Seminar\task_09_отрезок\obj\Debug\net6.0\ref\task_09_отрезок.dll
