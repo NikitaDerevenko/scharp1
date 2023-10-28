@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\bin\Debug\net6.0\task_28_произведение_чисел.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\bin\Debug\net6.0\task_28_произведение_чисел.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\bin\Debug\net6.0\task_28_произведение_чисел.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\bin\Debug\net6.0\task_28_произведение_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\bin\Debug\net6.0\task_28_произведение_чисел.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\refint\task_28_произведение_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\task_28_произведение_чисел.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_28_произведение_чисел\obj\Debug\net6.0\ref\task_28_произведение_чисел.dll

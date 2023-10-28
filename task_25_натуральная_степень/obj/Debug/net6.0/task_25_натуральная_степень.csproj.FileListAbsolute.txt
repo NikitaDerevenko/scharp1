@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\bin\Debug\net6.0\task_25_натуральная_степень.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\bin\Debug\net6.0\task_25_натуральная_степень.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\bin\Debug\net6.0\task_25_натуральная_степень.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\bin\Debug\net6.0\task_25_натуральная_степень.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\bin\Debug\net6.0\task_25_натуральная_степень.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\refint\task_25_натуральная_степень.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\task_25_натуральная_степень.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_25_натуральная_степень\obj\Debug\net6.0\ref\task_25_натуральная_степень.dll

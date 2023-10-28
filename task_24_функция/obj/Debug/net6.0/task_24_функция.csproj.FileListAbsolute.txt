@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\bin\Debug\net6.0\task_24_функция.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\bin\Debug\net6.0\task_24_функция.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\bin\Debug\net6.0\task_24_функция.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\bin\Debug\net6.0\task_24_функция.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\bin\Debug\net6.0\task_24_функция.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\refint\task_24_функция.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\task_24_функция.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_24_функция\obj\Debug\net6.0\ref\task_24_функция.dll

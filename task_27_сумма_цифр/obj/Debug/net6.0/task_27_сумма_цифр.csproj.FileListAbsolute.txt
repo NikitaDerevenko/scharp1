@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\bin\Debug\net6.0\task_27_сумма_цифр.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\bin\Debug\net6.0\task_27_сумма_цифр.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\bin\Debug\net6.0\task_27_сумма_цифр.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\bin\Debug\net6.0\task_27_сумма_цифр.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\bin\Debug\net6.0\task_27_сумма_цифр.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\refint\task_27_сумма_цифр.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\task_27_сумма_цифр.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_27_сумма_цифр\obj\Debug\net6.0\ref\task_27_сумма_цифр.dll

@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\bin\Debug\net6.0\task_29_массив_из_8_чисел.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\bin\Debug\net6.0\task_29_массив_из_8_чисел.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\bin\Debug\net6.0\task_29_массив_из_8_чисел.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\bin\Debug\net6.0\task_29_массив_из_8_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\bin\Debug\net6.0\task_29_массив_из_8_чисел.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\refint\task_29_массив_из_8_чисел.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\task_29_массив_из_8_чисел.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_29_массив_из_8_чисел\obj\Debug\net6.0\ref\task_29_массив_из_8_чисел.dll

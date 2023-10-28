@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\bin\Debug\net6.0\task_30_cлучайный_порядок.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\bin\Debug\net6.0\task_30_cлучайный_порядок.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\bin\Debug\net6.0\task_30_cлучайный_порядок.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\bin\Debug\net6.0\task_30_cлучайный_порядок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\bin\Debug\net6.0\task_30_cлучайный_порядок.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\refint\task_30_cлучайный_порядок.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\task_30_cлучайный_порядок.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_30_cлучайный_порядок\obj\Debug\net6.0\ref\task_30_cлучайный_порядок.dll
