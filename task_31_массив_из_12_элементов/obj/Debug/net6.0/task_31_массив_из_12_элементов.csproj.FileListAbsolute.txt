@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\bin\Debug\net6.0\task_31_массив_из_12_элементов.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\bin\Debug\net6.0\task_31_массив_из_12_элементов.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\bin\Debug\net6.0\task_31_массив_из_12_элементов.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\bin\Debug\net6.0\task_31_массив_из_12_элементов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\bin\Debug\net6.0\task_31_массив_из_12_элементов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\refint\task_31_массив_из_12_элементов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\task_31_массив_из_12_элементов.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_31_массив_из_12_элементов\obj\Debug\net6.0\ref\task_31_массив_из_12_элементов.dll

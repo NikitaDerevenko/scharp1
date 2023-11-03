@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\bin\Debug\net6.0\task_33_рандомный_массив.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\bin\Debug\net6.0\task_33_рандомный_массив.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\bin\Debug\net6.0\task_33_рандомный_массив.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\bin\Debug\net6.0\task_33_рандомный_массив.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\bin\Debug\net6.0\task_33_рандомный_массив.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\refint\task_33_рандомный_массив.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\task_33_рандомный_массив.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_33_рандомный_массив\obj\Debug\net6.0\ref\task_33_рандомный_массив.dll
