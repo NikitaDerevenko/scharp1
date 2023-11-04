@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\bin\Debug\net6.0\task_39_поменяет_местами_массивы.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\bin\Debug\net6.0\task_39_поменяет_местами_массивы.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\bin\Debug\net6.0\task_39_поменяет_местами_массивы.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\bin\Debug\net6.0\task_39_поменяет_местами_массивы.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\bin\Debug\net6.0\task_39_поменяет_местами_массивы.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\refint\task_39_поменяет_местами_массивы.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\task_39_поменяет_местами_массивы.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_39_поменяет_местами_массивы\obj\Debug\net6.0\ref\task_39_поменяет_местами_массивы.dll

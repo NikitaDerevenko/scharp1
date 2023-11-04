@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\bin\Debug\net6.0\task_40_3Nчисла_треуголник.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\bin\Debug\net6.0\task_40_3Nчисла_треуголник.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\bin\Debug\net6.0\task_40_3Nчисла_треуголник.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\bin\Debug\net6.0\task_40_3Nчисла_треуголник.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\bin\Debug\net6.0\task_40_3Nчисла_треуголник.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\refint\task_40_3Nчисла_треуголник.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\task_40_3Nчисла_треуголник.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_40_3Nчисла_треуголник\obj\Debug\net6.0\ref\task_40_3Nчисла_треуголник.dll

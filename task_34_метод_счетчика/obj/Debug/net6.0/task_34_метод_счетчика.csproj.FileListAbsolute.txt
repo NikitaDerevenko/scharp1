@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\bin\Debug\net6.0\task_34_метод_счетчика.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\bin\Debug\net6.0\task_34_метод_счетчика.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\bin\Debug\net6.0\task_34_метод_счетчика.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\bin\Debug\net6.0\task_34_метод_счетчика.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\bin\Debug\net6.0\task_34_метод_счетчика.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\refint\task_34_метод_счетчика.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\task_34_метод_счетчика.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_34_метод_счетчика\obj\Debug\net6.0\ref\task_34_метод_счетчика.dll

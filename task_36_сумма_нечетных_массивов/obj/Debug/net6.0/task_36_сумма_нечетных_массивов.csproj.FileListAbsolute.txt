@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\bin\Debug\net6.0\task_36_сумма_нечетных_массивов.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\bin\Debug\net6.0\task_36_сумма_нечетных_массивов.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\bin\Debug\net6.0\task_36_сумма_нечетных_массивов.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\bin\Debug\net6.0\task_36_сумма_нечетных_массивов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\bin\Debug\net6.0\task_36_сумма_нечетных_массивов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\refint\task_36_сумма_нечетных_массивов.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\task_36_сумма_нечетных_массивов.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_36_сумма_нечетных_массивов\obj\Debug\net6.0\ref\task_36_сумма_нечетных_массивов.dll

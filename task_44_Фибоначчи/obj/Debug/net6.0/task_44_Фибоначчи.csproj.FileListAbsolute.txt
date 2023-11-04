@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\bin\Debug\net6.0\task_44_Фибоначчи.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\bin\Debug\net6.0\task_44_Фибоначчи.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\bin\Debug\net6.0\task_44_Фибоначчи.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\bin\Debug\net6.0\task_44_Фибоначчи.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\bin\Debug\net6.0\task_44_Фибоначчи.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\refint\task_44_Фибоначчи.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\task_44_Фибоначчи.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_44_Фибоначчи\obj\Debug\net6.0\ref\task_44_Фибоначчи.dll

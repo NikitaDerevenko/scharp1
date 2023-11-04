@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\bin\Debug\net6.0\task_43_точка_пересечения.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\bin\Debug\net6.0\task_43_точка_пересечения.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\bin\Debug\net6.0\task_43_точка_пересечения.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\bin\Debug\net6.0\task_43_точка_пересечения.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\bin\Debug\net6.0\task_43_точка_пересечения.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\refint\task_43_точка_пересечения.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\task_43_точка_пересечения.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_43_точка_пересечения\obj\Debug\net6.0\ref\task_43_точка_пересечения.dll
