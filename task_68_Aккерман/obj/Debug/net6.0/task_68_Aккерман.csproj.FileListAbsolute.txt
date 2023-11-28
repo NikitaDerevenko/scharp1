@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\bin\Debug\net6.0\task_68_Aккерман.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\bin\Debug\net6.0\task_68_Aккерман.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\bin\Debug\net6.0\task_68_Aккерман.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\bin\Debug\net6.0\task_68_Aккерман.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\bin\Debug\net6.0\task_68_Aккерман.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\refint\task_68_Aккерман.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\task_68_Aккерман.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_68_Aккерман\obj\Debug\net6.0\ref\task_68_Aккерман.dll

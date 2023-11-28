@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\bin\Debug\net6.0\task_46_MxN.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\bin\Debug\net6.0\task_46_MxN.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\bin\Debug\net6.0\task_46_MxN.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\bin\Debug\net6.0\task_46_MxN.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\bin\Debug\net6.0\task_46_MxN.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\refint\task_46_MxN.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\task_46_MxN.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_46_MxN\obj\Debug\net6.0\ref\task_46_MxN.dll

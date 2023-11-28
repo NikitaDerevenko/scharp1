@@ -1,0 +1,15 @@
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\bin\Debug\net6.0\task_65_значение_N.exe
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\bin\Debug\net6.0\task_65_значение_N.deps.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\bin\Debug\net6.0\task_65_значение_N.runtimeconfig.json
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\bin\Debug\net6.0\task_65_значение_N.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\bin\Debug\net6.0\task_65_значение_N.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.csproj.AssemblyReference.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.AssemblyInfoInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.AssemblyInfo.cs
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\refint\task_65_значение_N.dll
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.pdb
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\task_65_значение_N.genruntimeconfig.cache
+C:\Users\Пользователь 1\OneDrive\Рабочий стол\Sharp\task_65_значение_N\obj\Debug\net6.0\ref\task_65_значение_N.dll
